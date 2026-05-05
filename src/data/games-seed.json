@@ -1,0 +1,1739 @@
+[
+  {
+    "id": 1,
+    "slug": "astro-bot",
+    "name": "Astro Bot",
+    "genres": [
+      "Plataformas",
+      "Aventura"
+    ],
+    "platforms": [
+      "PS5"
+    ],
+    "released": "2024-09-06",
+    "rating": 4.8,
+    "metacritic": 94,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2996290/header.jpg",
+    "description": "El mejor plataformas de la generación. Una carta de amor a los videojuegos con el DualSense como protagonista.",
+    "playtime": 12,
+    "status": null
+  },
+  {
+    "id": 2,
+    "slug": "baldurs-gate-3",
+    "name": "Baldur's Gate 3",
+    "genres": [
+      "RPG",
+      "Estrategia"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series"
+    ],
+    "released": "2023-08-03",
+    "rating": 4.8,
+    "metacritic": 96,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+    "description": "Reúne a tu grupo y regresa a los Reinos Olvidados en un cuento de compañerismo y traición, sacrificio y supervivencia.",
+    "playtime": 100,
+    "status": null
+  },
+  {
+    "id": 3,
+    "slug": "god-of-war-ragnarok",
+    "name": "God of War: Ragnarök",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "released": "2022-11-09",
+    "rating": 4.8,
+    "metacritic": 94,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2322010/header.jpg",
+    "description": "Kratos y Atreus deben viajar a los nueve reinos para enfrentarse al Ragnarök inminente.",
+    "playtime": 30,
+    "status": null
+  },
+  {
+    "id": 4,
+    "slug": "god-of-war",
+    "name": "God of War",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "released": "2018-04-20",
+    "rating": 4.7,
+    "metacritic": 94,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg",
+    "description": "Kratos regresa en un nuevo y épico capítulo. Con su hijo Atreus, emprende un viaje por los reinos de la mitología nórdica.",
+    "playtime": 25,
+    "status": null
+  },
+  {
+    "id": 5,
+    "slug": "metaphor-refantazio",
+    "name": "Metaphor: ReFantazio",
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox Series"
+    ],
+    "released": "2024-10-11",
+    "rating": 4.7,
+    "metacritic": 94,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2679460/header.jpg",
+    "description": "Del creador de Persona, un JRPG épico ambientado en un reino de fantasía donde luchas por el trono.",
+    "playtime": 80,
+    "status": null
+  },
+  {
+    "id": 6,
+    "slug": "persona-5-royal",
+    "name": "Persona 5 Royal",
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "Switch",
+      "Xbox One"
+    ],
+    "released": "2020-03-31",
+    "rating": 4.7,
+    "metacritic": 95,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/header.jpg",
+    "description": "Únete a los Phantom Thieves y cambia los corazones de los corruptos en este JRPG estilizado y apasionante.",
+    "playtime": 100,
+    "status": null
+  },
+  {
+    "id": 7,
+    "slug": "red-dead-redemption-2",
+    "name": "Red Dead Redemption 2",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PS4",
+      "Xbox One",
+      "PC"
+    ],
+    "released": "2018-10-26",
+    "rating": 4.7,
+    "metacritic": 97,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+    "description": "Una épica historia de vida y supervivencia en el corazón de América. Ambientada en 1899, en el ocaso del Viejo Oeste americano.",
+    "playtime": 50,
+    "status": null
+  },
+  {
+    "id": 8,
+    "slug": "the-last-of-us",
+    "name": "The Last of Us Part I",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Horror"
+    ],
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "released": "2022-09-02",
+    "rating": 4.7,
+    "metacritic": 96,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/header.jpg",
+    "description": "Experimenta el viaje de Joel y Ellie a través de un Estados Unidos post-apocalíptico en esta remake definitiva.",
+    "playtime": 15,
+    "status": null
+  },
+  {
+    "id": 9,
+    "slug": "the-witcher-3-wild-hunt",
+    "name": "The Witcher 3: Wild Hunt",
+    "genres": [
+      "RPG",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2015-05-19",
+    "rating": 4.7,
+    "metacritic": 93,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+    "description": "Un RPG de mundo abierto ambientado en un universo de fantasía oscura. Juega como Geralt de Rivia, un cazador de monstruos profesional, en busca de su hija adoptiva.",
+    "playtime": 70,
+    "status": null
+  },
+  {
+    "id": 10,
+    "slug": "the-legend-of-zelda-botw",
+    "name": "Zelda: Breath of the Wild",
+    "genres": [
+      "Aventura",
+      "RPG"
+    ],
+    "platforms": [
+      "Switch",
+      "Wii U"
+    ],
+    "released": "2017-03-03",
+    "rating": 4.7,
+    "metacritic": 97,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2243890/header.jpg",
+    "description": "Link despierta en un mundo de Hyrule destruido. Con total libertad de exploración, derrota a Calamity Ganon y salva el reino.",
+    "playtime": 50,
+    "status": null
+  },
+  {
+    "id": 11,
+    "slug": "deep-rock-galactic",
+    "name": "Deep Rock Galactic",
+    "genres": [
+      "FPS",
+      "Acción",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series"
+    ],
+    "released": "2020-05-13",
+    "rating": 4.6,
+    "metacritic": 85,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg",
+    "description": "Somos enanos espaciales minando en planetas hostiles. El mejor cooperativo de 4 jugadores de los últimos años.",
+    "playtime": 80,
+    "status": null
+  },
+  {
+    "id": 12,
+    "slug": "disco-elysium",
+    "name": "Disco Elysium",
+    "genres": [
+      "RPG",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One"
+    ],
+    "released": "2019-10-15",
+    "rating": 4.6,
+    "metacritic": 97,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/header.jpg",
+    "description": "Un detective atormentado investiga un asesinato en una ciudad decadente en este innovador RPG de conversación.",
+    "playtime": 25,
+    "status": null
+  },
+  {
+    "id": 13,
+    "slug": "divinity-original-sin-2",
+    "name": "Divinity: Original Sin 2",
+    "genres": [
+      "RPG",
+      "Estrategia"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2017-09-14",
+    "rating": 4.6,
+    "metacritic": 93,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/435150/header.jpg",
+    "description": "El CRPG por excelencia. Explora un mundo de fantasía oscura con libertad total, hasta cuatro jugadores cooperativo.",
+    "playtime": 100,
+    "status": null
+  },
+  {
+    "id": 14,
+    "slug": "elden-ring",
+    "name": "Elden Ring",
+    "genres": [
+      "RPG",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series"
+    ],
+    "released": "2022-02-25",
+    "rating": 4.6,
+    "metacritic": 96,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+    "description": "Forja tu propio camino en Elden Ring, el nuevo juego de rol de acción creado por FromSoftware y George R.R. Martin.",
+    "playtime": 60,
+    "status": null
+  },
+  {
+    "id": 15,
+    "slug": "elden-ring-shadow-of-the-erdtree",
+    "name": "Elden Ring: Shadow of the Erdtree",
+    "genres": [
+      "RPG",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series"
+    ],
+    "released": "2024-06-21",
+    "rating": 4.6,
+    "metacritic": 94,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2778580/header.jpg",
+    "description": "La expansión de Elden Ring añade una nueva región colosal, decenas de jefes y equipamiento nunca visto.",
+    "playtime": 30,
+    "status": null
+  },
+  {
+    "id": 16,
+    "slug": "hades",
+    "name": "Hades",
+    "genres": [
+      "Acción",
+      "Indie",
+      "Roguelike"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2020-09-17",
+    "rating": 4.6,
+    "metacritic": 93,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg",
+    "description": "Desafía al dios de los muertos mientras luchas para escapar de las Casas del Hades en este roguelike de acción.",
+    "playtime": 30,
+    "status": null
+  },
+  {
+    "id": 17,
+    "slug": "hades-2",
+    "name": "Hades II",
+    "genres": [
+      "Acción",
+      "Roguelike",
+      "Indie"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "released": "2024-05-06",
+    "rating": 4.6,
+    "metacritic": 92,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145350/header.jpg",
+    "description": "Melinoë, hija del Hades, lucha contra Cronos. Acceso anticipado del esperadísimo sucesor del roguelike.",
+    "playtime": 40,
+    "status": null
+  },
+  {
+    "id": 18,
+    "slug": "it-takes-two",
+    "name": "It Takes Two",
+    "genres": [
+      "Aventura",
+      "Plataformas",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2021-03-26",
+    "rating": 4.6,
+    "metacritic": 89,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg",
+    "description": "Una pareja en crisis se transforma en muñecos y debe cooperar para volver a ser humanos. El mejor cooperativo del año.",
+    "playtime": 12,
+    "status": null
+  },
+  {
+    "id": 19,
+    "slug": "mass-effect-legendary",
+    "name": "Mass Effect Legendary Edition",
+    "genres": [
+      "RPG",
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2021-05-14",
+    "rating": 4.6,
+    "metacritic": 89,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1328670/header.jpg",
+    "description": "Toda la trilogía Mass Effect remasterizada. Una epopeya de ciencia ficción con decisiones que moldean la galaxia.",
+    "playtime": 100,
+    "status": null
+  },
+  {
+    "id": 20,
+    "slug": "ori-and-the-will-of-the-wisps",
+    "name": "Ori and the Will of the Wisps",
+    "genres": [
+      "Plataformas",
+      "Aventura",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2020-03-11",
+    "rating": 4.6,
+    "metacritic": 90,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1057090/header.jpg",
+    "description": "El espíritu Ori emprende un viaje más allá de los límites del bosque en esta visualmente deslumbrante secuela.",
+    "playtime": 12,
+    "status": null
+  },
+  {
+    "id": 21,
+    "slug": "outer-wilds",
+    "name": "Outer Wilds",
+    "genres": [
+      "Aventura",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2019-05-28",
+    "rating": 4.6,
+    "metacritic": 85,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/753640/header.jpg",
+    "description": "Explora un sistema solar atrapado en un bucle temporal de 22 minutos. Un misterio cósmico que te cambiará.",
+    "playtime": 20,
+    "status": null
+  },
+  {
+    "id": 22,
+    "slug": "portal-2",
+    "name": "Portal 2",
+    "genres": [
+      "Puzzles",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "released": "2011-04-19",
+    "rating": 4.6,
+    "metacritic": 95,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
+    "description": "Portal 2 desafía tu mente con puzles de física usando portales. Una de las mejores experiencias cooperativas de todos los tiempos.",
+    "playtime": 10,
+    "status": null
+  },
+  {
+    "id": 23,
+    "slug": "resident-evil-4-remake",
+    "name": "Resident Evil 4 Remake",
+    "genres": [
+      "Horror",
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox Series"
+    ],
+    "released": "2023-03-24",
+    "rating": 4.6,
+    "metacritic": 93,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/header.jpg",
+    "description": "Leon Kennedy rescata a la hija del presidente en un pueblo español infestado de fanáticos. La mejor remake del año.",
+    "playtime": 16,
+    "status": null
+  },
+  {
+    "id": 24,
+    "slug": "alan-wake-2",
+    "name": "Alan Wake 2",
+    "genres": [
+      "Horror",
+      "Aventura",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series"
+    ],
+    "released": "2023-10-27",
+    "rating": 4.5,
+    "metacritic": 89,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1342630/header.jpg",
+    "description": "Alan Wake sigue atrapado en el Lugar Oscuro. Saga Andersen investiga asesinatos rituales en Bright Falls.",
+    "playtime": 15,
+    "status": null
+  },
+  {
+    "id": 25,
+    "slug": "black-myth-wukong",
+    "name": "Black Myth: Wukong",
+    "genres": [
+      "Acción",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "released": "2024-08-20",
+    "rating": 4.5,
+    "metacritic": 82,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/header.jpg",
+    "description": "El Rey Mono del folclore chino en un soulslike visualmente deslumbrante. La gran apuesta de China.",
+    "playtime": 30,
+    "status": null
+  },
+  {
+    "id": 26,
+    "slug": "celeste",
+    "name": "Celeste",
+    "genres": [
+      "Plataformas",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2018-01-25",
+    "rating": 4.5,
+    "metacritic": 94,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/header.jpg",
+    "description": "Ayuda a Madeline a sobrevivir su viaje interior a la cima de la Montaña Celeste en este preciso juego de plataformas.",
+    "playtime": 12,
+    "status": null
+  },
+  {
+    "id": 27,
+    "slug": "phantom-liberty",
+    "name": "Cyberpunk 2077: Phantom Liberty",
+    "genres": [
+      "RPG",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series"
+    ],
+    "released": "2023-09-26",
+    "rating": 4.5,
+    "metacritic": 90,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2138330/header.jpg",
+    "description": "V acepta una misión imposible de rescate en Dogtown, el distrito más peligroso de Night City.",
+    "playtime": 15,
+    "status": null
+  },
+  {
+    "id": 28,
+    "slug": "dark-souls-3",
+    "name": "Dark Souls III",
+    "genres": [
+      "RPG",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2016-03-24",
+    "rating": 4.5,
+    "metacritic": 89,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/header.jpg",
+    "description": "La oscuridad se propaga. Enlaza la llama una vez más en la última entrega de la icónica saga de FromSoftware.",
+    "playtime": 40,
+    "status": null
+  },
+  {
+    "id": 29,
+    "slug": "dead-cells",
+    "name": "Dead Cells",
+    "genres": [
+      "Acción",
+      "Roguelike",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One",
+      "Móvil"
+    ],
+    "released": "2018-08-07",
+    "rating": 4.5,
+    "metacritic": 89,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/header.jpg",
+    "description": "Muere. Aprende. Repite. Un roguelike de plataformas de acción brutalmente satisfactorio.",
+    "playtime": 30,
+    "status": null
+  },
+  {
+    "id": 30,
+    "slug": "the-pathless",
+    "name": "Forza Horizon 5",
+    "genres": [
+      "Simulación",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series"
+    ],
+    "released": "2021-11-09",
+    "rating": 4.5,
+    "metacritic": 92,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg",
+    "description": "El festival de carreras más espectacular del mundo llega a México. Explora paisajes únicos en cientos de vehículos.",
+    "playtime": 80,
+    "status": null
+  },
+  {
+    "id": 31,
+    "slug": "ghost-of-tsushima",
+    "name": "Ghost of Tsushima",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "released": "2020-07-17",
+    "rating": 4.5,
+    "metacritic": 83,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/header.jpg",
+    "description": "En 1274, el guerrero samurái Jin Sakai debe convertirse en el Fantasma para liberar Tsushima de la invasión mongol.",
+    "playtime": 40,
+    "status": null
+  },
+  {
+    "id": 32,
+    "slug": "resident-evil-4-demo",
+    "name": "Hi-Fi Rush",
+    "genres": [
+      "Acción",
+      "Indie",
+      "Plataformas"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox Series",
+      "PS5"
+    ],
+    "released": "2023-01-25",
+    "rating": 4.5,
+    "metacritic": 88,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817230/header.jpg",
+    "description": "Todo el mundo se mueve al ritmo de la música. Combate con estilo en este colorido y energético juego de acción.",
+    "playtime": 10,
+    "status": null
+  },
+  {
+    "id": 33,
+    "slug": "hollow-knight",
+    "name": "Hollow Knight",
+    "genres": [
+      "Acción",
+      "Indie",
+      "Plataformas"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2017-02-24",
+    "rating": 4.5,
+    "metacritic": 87,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg",
+    "description": "Forja tu propio camino en Hallownest, un vasto reino subterráneo habitado por criaturas de insectos.",
+    "playtime": 40,
+    "status": null
+  },
+  {
+    "id": 34,
+    "slug": "inscryption",
+    "name": "Inscryption",
+    "genres": [
+      "Estrategia",
+      "Roguelike",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "released": "2021-10-19",
+    "rating": 4.5,
+    "metacritic": 85,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1092790/header.jpg",
+    "description": "Un juego de cartas perturbador que esconde secretos más oscuros de lo que parece. Innovador y sorprendente.",
+    "playtime": 12,
+    "status": null
+  },
+  {
+    "id": 35,
+    "slug": "metal-gear-solid-v",
+    "name": "Metal Gear Solid V",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Estrategia"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2015-09-01",
+    "rating": 4.5,
+    "metacritic": 95,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/287700/header.jpg",
+    "description": "Big Boss regresa en un mundo abierto táctico de infiltración. La experiencia stealth definitiva de Kojima.",
+    "playtime": 45,
+    "status": null
+  },
+  {
+    "id": 36,
+    "slug": "nier-automata",
+    "name": "NieR: Automata",
+    "genres": [
+      "Acción",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2017-02-23",
+    "rating": 4.5,
+    "metacritic": 88,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/header.jpg",
+    "description": "En un futuro distópico, androides y máquinas combaten una guerra interminable. Una obra filosófica y de acción.",
+    "playtime": 40,
+    "status": null
+  },
+  {
+    "id": 37,
+    "slug": "pizza-tower",
+    "name": "Pizza Tower",
+    "genres": [
+      "Plataformas",
+      "Indie",
+      "Acción"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "released": "2023-01-26",
+    "rating": 4.5,
+    "metacritic": 90,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2231450/header.jpg",
+    "description": "Peppino escala una torre de pizza en este plataformas frenético inspirado en Wario Land. Caótico y genial.",
+    "playtime": 8,
+    "status": null
+  },
+  {
+    "id": 38,
+    "slug": "resident-evil-2",
+    "name": "Resident Evil 2 Remake",
+    "genres": [
+      "Horror",
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2019-01-25",
+    "rating": 4.5,
+    "metacritic": 91,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/header.jpg",
+    "description": "Leon Kennedy y Claire Redfield luchan por sobrevivir en Raccoon City en esta remake completamente renovada.",
+    "playtime": 8,
+    "status": null
+  },
+  {
+    "id": 39,
+    "slug": "sekiro-shadows-die-twice",
+    "name": "Sekiro: Shadows Die Twice",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2019-03-22",
+    "rating": 4.5,
+    "metacritic": 90,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
+    "description": "Revive, revive, combate en el Japón del período Sengoku. Eres un shinobi que lucha para rescatar a su señor.",
+    "playtime": 35,
+    "status": null
+  },
+  {
+    "id": 40,
+    "slug": "spider-man-miles-morales",
+    "name": "Spider-Man: Miles Morales",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "released": "2020-11-12",
+    "rating": 4.5,
+    "metacritic": 85,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/header.jpg",
+    "description": "Miles Morales descubre sus poderes únicos mientras protege su hogar en Harlem del peligro.",
+    "playtime": 10,
+    "status": null
+  },
+  {
+    "id": 41,
+    "slug": "stardew-valley",
+    "name": "Stardew Valley",
+    "genres": [
+      "Simulación",
+      "RPG",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One",
+      "Móvil"
+    ],
+    "released": "2016-02-26",
+    "rating": 4.5,
+    "metacritic": 89,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
+    "description": "Construye la granja de tus sueños, explora cavernas misteriosas y construye relaciones en Pelican Town.",
+    "playtime": 80,
+    "status": null
+  },
+  {
+    "id": 42,
+    "slug": "subnautica",
+    "name": "Subnautica",
+    "genres": [
+      "Aventura",
+      "Sandbox",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2018-01-23",
+    "rating": 4.5,
+    "metacritic": 87,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/header.jpg",
+    "description": "Sobrevive bajo el océano alienígena de un planeta desconocido. Construye bases, explora abismos y descubre secretos.",
+    "playtime": 30,
+    "status": null
+  },
+  {
+    "id": 43,
+    "slug": "terraria",
+    "name": "Terraria",
+    "genres": [
+      "Acción",
+      "Sandbox",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch",
+      "Móvil"
+    ],
+    "released": "2011-05-16",
+    "rating": 4.5,
+    "metacritic": 83,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "description": "Cava, lucha, explora y construye en un mundo 2D lleno de aventuras.",
+    "playtime": 100,
+    "status": null
+  },
+  {
+    "id": 44,
+    "slug": "sable",
+    "name": "Vampire Survivors",
+    "genres": [
+      "Roguelike",
+      "Indie",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "Móvil",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2022-10-20",
+    "rating": 4.5,
+    "metacritic": 86,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/header.jpg",
+    "description": "Sobrevive hordas interminables de monstruos en este roguelite adictivo que se juega casi solo.",
+    "playtime": 30,
+    "status": null
+  },
+  {
+    "id": 45,
+    "slug": "plague-tale-requiem",
+    "name": "A Plague Tale: Requiem",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series",
+      "Switch"
+    ],
+    "released": "2022-10-18",
+    "rating": 4.4,
+    "metacritic": 84,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1182900/header.jpg",
+    "description": "Amicia y Hugo buscan una isla que pueda curar a Hugo mientras huyen de la Inquisición y las plagas de ratas.",
+    "playtime": 18,
+    "status": null
+  },
+  {
+    "id": 46,
+    "slug": "animal-well",
+    "name": "Animal Well",
+    "genres": [
+      "Plataformas",
+      "Indie",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Switch"
+    ],
+    "released": "2024-05-09",
+    "rating": 4.4,
+    "metacritic": 90,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/813230/header.jpg",
+    "description": "Un metroidvania atmosférico y misterioso lleno de secretos ocultos en cada rincón de su laberinto oscuro.",
+    "playtime": 10,
+    "status": null
+  },
+  {
+    "id": 47,
+    "slug": "bioshock-infinite",
+    "name": "BioShock Infinite",
+    "genres": [
+      "FPS",
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "released": "2013-03-26",
+    "rating": 4.4,
+    "metacritic": 94,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/header.jpg",
+    "description": "Booker DeWitt debe rescatar a Elizabeth de la ciudad flotante de Columbia, un lugar plagado de secretos oscuros.",
+    "playtime": 12,
+    "status": null
+  },
+  {
+    "id": 48,
+    "slug": "cocoon",
+    "name": "Cocoon",
+    "genres": [
+      "Puzzles",
+      "Aventura",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2023-09-29",
+    "rating": 4.4,
+    "metacritic": 90,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1497440/header.jpg",
+    "description": "Lleva mundos dentro de mundos en este genial puzzle de ciencia ficción del creador de Limbo e Inside.",
+    "playtime": 6,
+    "status": null
+  },
+  {
+    "id": 49,
+    "slug": "cuphead",
+    "name": "Cuphead",
+    "genres": [
+      "Acción",
+      "Plataformas",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2017-09-29",
+    "rating": 4.4,
+    "metacritic": 88,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/header.jpg",
+    "description": "Un juego de acción dibujado a mano inspirado en los cartoons de los años 30, famoso por su dificultad brutal.",
+    "playtime": 10,
+    "status": null
+  },
+  {
+    "id": 50,
+    "slug": "dave-the-diver",
+    "name": "Dave the Diver",
+    "genres": [
+      "Aventura",
+      "RPG",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "PS5"
+    ],
+    "released": "2023-06-28",
+    "rating": 4.4,
+    "metacritic": 90,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/header.jpg",
+    "description": "Dave bucea en las profundidades oceánicas de día y gestiona un restaurante de sushi de noche. Adictivo y encantador.",
+    "playtime": 25,
+    "status": null
+  },
+  {
+    "id": 51,
+    "slug": "death-door",
+    "name": "Death's Door",
+    "genres": [
+      "Acción",
+      "Indie",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PS4",
+      "Switch"
+    ],
+    "released": "2021-07-20",
+    "rating": 4.4,
+    "metacritic": 87,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/894020/header.jpg",
+    "description": "Como un cuervo recolector de almas, investiga el robo de una gran alma en un mundo atemporal y oscuro.",
+    "playtime": 10,
+    "status": null
+  },
+  {
+    "id": 52,
+    "slug": "helldivers-2",
+    "name": "Helldivers 2",
+    "genres": [
+      "Acción",
+      "Estrategia"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "released": "2024-02-08",
+    "rating": 4.4,
+    "metacritic": 82,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+    "description": "Defiende la Democracia Gestionada contra insectos y robots alienígenas. El cooperativo del año 2024.",
+    "playtime": 50,
+    "status": null
+  },
+  {
+    "id": 53,
+    "slug": "horizon-forbidden-west",
+    "name": "Horizon Forbidden West",
+    "genres": [
+      "Acción",
+      "RPG",
+      "Aventura"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "released": "2022-02-18",
+    "rating": 4.4,
+    "metacritic": 88,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2420110/header.jpg",
+    "description": "Aloy viaja al oeste prohibido para detener una plaga misteriosa que amenaza con destruir el mundo.",
+    "playtime": 50,
+    "status": null
+  },
+  {
+    "id": 54,
+    "slug": "horizon-zero-dawn",
+    "name": "Horizon Zero Dawn",
+    "genres": [
+      "Acción",
+      "RPG",
+      "Aventura"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "released": "2017-02-28",
+    "rating": 4.4,
+    "metacritic": 89,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/header.jpg",
+    "description": "Aloy, una cazadora hábil, debe descubrir los secretos de un mundo dominado por máquinas prehistóricas.",
+    "playtime": 45,
+    "status": null
+  },
+  {
+    "id": 55,
+    "slug": "minecraft",
+    "name": "Minecraft",
+    "genres": [
+      "Sandbox",
+      "Aventura",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch",
+      "Móvil"
+    ],
+    "released": "2011-11-18",
+    "rating": 4.4,
+    "metacritic": 93,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1672970/header.jpg",
+    "description": "Un juego de sandbox infinito donde puedes construir, explorar y sobrevivir en mundos generados proceduralmente.",
+    "playtime": 200,
+    "status": null
+  },
+  {
+    "id": 56,
+    "slug": "monster-hunter-world",
+    "name": "Monster Hunter: World",
+    "genres": [
+      "Acción",
+      "RPG"
+    ],
+    "platforms": [
+      "PS4",
+      "Xbox One",
+      "PC"
+    ],
+    "released": "2018-01-26",
+    "rating": 4.4,
+    "metacritic": 90,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
+    "description": "Conviértete en un cazador y rastrea poderosos monstruos en ecosistemas vivos.",
+    "playtime": 55,
+    "status": null
+  },
+  {
+    "id": 57,
+    "slug": "neon-white",
+    "name": "Neon White",
+    "genres": [
+      "Acción",
+      "Indie",
+      "Puzzles"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "PS5"
+    ],
+    "released": "2022-06-16",
+    "rating": 4.4,
+    "metacritic": 88,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1533420/header.jpg",
+    "description": "Un asesino del cielo elimina demonios con cartas en este frenético y estilizado juego de acción y plataformas.",
+    "playtime": 8,
+    "status": null
+  },
+  {
+    "id": 58,
+    "slug": "lies-p-2",
+    "name": "Prince of Persia: The Lost Crown",
+    "genres": [
+      "Plataformas",
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2024-01-18",
+    "rating": 4.4,
+    "metacritic": 89,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1969590/header.jpg",
+    "description": "El regreso de Prince of Persia en formato metroidvania. Rápido, preciso y visualmente espectacular.",
+    "playtime": 15,
+    "status": null
+  },
+  {
+    "id": 59,
+    "slug": "psychonauts-2",
+    "name": "Psychonauts 2",
+    "genres": [
+      "Plataformas",
+      "Aventura",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PS4"
+    ],
+    "released": "2021-08-25",
+    "rating": 4.4,
+    "metacritic": 90,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/607080/header.jpg",
+    "description": "Raz regresa como psiconauta para investigar un topo en la organización y explorar mentes peligrosas.",
+    "playtime": 12,
+    "status": null
+  },
+  {
+    "id": 60,
+    "slug": "returnal",
+    "name": "Returnal",
+    "genres": [
+      "Acción",
+      "Roguelike"
+    ],
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "released": "2021-04-30",
+    "rating": 4.4,
+    "metacritic": 86,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1649240/header.jpg",
+    "description": "Selene queda atrapada en un bucle temporal en un planeta alienígena hostil. Cada muerte reinicia el mundo.",
+    "playtime": 25,
+    "status": null
+  },
+  {
+    "id": 61,
+    "slug": "sea-of-stars",
+    "name": "Sea of Stars",
+    "genres": [
+      "RPG",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "PS5",
+      "Xbox One"
+    ],
+    "released": "2023-08-29",
+    "rating": 4.4,
+    "metacritic": 89,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/header.jpg",
+    "description": "Un RPG por turnos inspirado en los clásicos de los 90. Valere y Zale son Hijos del Solsticio que combaten el mal.",
+    "playtime": 30,
+    "status": null
+  },
+  {
+    "id": 62,
+    "slug": "the-binding-of-isaac-rebirth",
+    "name": "The Binding of Isaac: Rebirth",
+    "genres": [
+      "Roguelike",
+      "Acción",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2014-11-04",
+    "rating": 4.4,
+    "metacritic": 85,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/header.jpg",
+    "description": "Isaac huye hacia el sótano de su casa para escapar de su madre enloquecida. Un roguelike con miles de combinaciones.",
+    "playtime": 200,
+    "status": null
+  },
+  {
+    "id": 63,
+    "slug": "armored-core-vi",
+    "name": "Armored Core VI: Fires of Rubicon",
+    "genres": [
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series"
+    ],
+    "released": "2023-08-25",
+    "rating": 4.3,
+    "metacritic": 87,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888160/header.jpg",
+    "description": "Pilota mechas en combates espectaculares. El retorno de Armored Core por FromSoftware.",
+    "playtime": 20,
+    "status": null
+  },
+  {
+    "id": 64,
+    "slug": "control",
+    "name": "Control",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series"
+    ],
+    "released": "2019-08-27",
+    "rating": 4.3,
+    "metacritic": 82,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/header.jpg",
+    "description": "Jesse Faden explora el misterioso Oldest House, sede de la Federal Bureau of Control, para descubrir su destino.",
+    "playtime": 15,
+    "status": null
+  },
+  {
+    "id": 65,
+    "slug": "doom-eternal",
+    "name": "DOOM Eternal",
+    "genres": [
+      "Acción",
+      "FPS"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2020-03-20",
+    "rating": 4.3,
+    "metacritic": 88,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg",
+    "description": "El Doom Slayer regresa más poderoso que nunca. Más rápido, más brutal y más fluido que cualquier juego de acción.",
+    "playtime": 15,
+    "status": null
+  },
+  {
+    "id": 66,
+    "slug": "detroit-become-human",
+    "name": "Detroit: Become Human",
+    "genres": [
+      "Aventura",
+      "Acción"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "released": "2018-05-25",
+    "rating": 4.3,
+    "metacritic": 78,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/header.jpg",
+    "description": "En 2038, tres androides descubren su humanidad. Cada decisión altera el destino de máquinas y humanos.",
+    "playtime": 12,
+    "status": null
+  },
+  {
+    "id": 67,
+    "slug": "prodeus",
+    "name": "Dredge",
+    "genres": [
+      "Aventura",
+      "Indie",
+      "Estrategia"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2023-03-30",
+    "rating": 4.3,
+    "metacritic": 85,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1562430/header.jpg",
+    "description": "Eres un pescador en un archipiélago oscuro. Pesca de día, evita el terror de noche. Un misterio inquietante.",
+    "playtime": 10,
+    "status": null
+  },
+  {
+    "id": 68,
+    "slug": "witcher-3-hearts-of-stone",
+    "name": "Final Fantasy XVI",
+    "genres": [
+      "RPG",
+      "Acción"
+    ],
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "released": "2023-06-22",
+    "rating": 4.3,
+    "metacritic": 87,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1946440/header.jpg",
+    "description": "Sigue a Clive Rosfield en un mundo de fantasía oscura en esta entrega más cinematográfica de la saga.",
+    "playtime": 40,
+    "status": null
+  },
+  {
+    "id": 69,
+    "slug": "lies-of-p",
+    "name": "Lies of P",
+    "genres": [
+      "RPG",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series"
+    ],
+    "released": "2023-09-19",
+    "rating": 4.3,
+    "metacritic": 80,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1627720/header.jpg",
+    "description": "Basado en Pinocho, un soulslike que te lleva por la oscura ciudad de Krat plagada de autómatas asesinos.",
+    "playtime": 30,
+    "status": null
+  },
+  {
+    "id": 70,
+    "slug": "resident-evil-village",
+    "name": "Resident Evil Village",
+    "genres": [
+      "Horror",
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series"
+    ],
+    "released": "2021-05-07",
+    "rating": 4.3,
+    "metacritic": 84,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/header.jpg",
+    "description": "Ethan Winters vive una pesadilla en un misterioso pueblo europeo lleno de monstruos sobrenaturales.",
+    "playtime": 10,
+    "status": null
+  },
+  {
+    "id": 71,
+    "slug": "star-wars-jedi-survivor",
+    "name": "Star Wars Jedi: Survivor",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series"
+    ],
+    "released": "2023-04-28",
+    "rating": 4.3,
+    "metacritic": 84,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1774580/header.jpg",
+    "description": "Cal Kestis continúa su viaje como Jedi en fuga mientras explora planetas nuevos y enfrenta enemigos del Imperio.",
+    "playtime": 25,
+    "status": null
+  },
+  {
+    "id": 72,
+    "slug": "the-forgotten-city",
+    "name": "The Forgotten City",
+    "genres": [
+      "Aventura",
+      "RPG",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Switch"
+    ],
+    "released": "2021-07-28",
+    "rating": 4.3,
+    "metacritic": 84,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/874260/header.jpg",
+    "description": "Atrapado en un bucle temporal en una ciudad romana, debes descubrir quién romperá la ley dorada antes de que muera.",
+    "playtime": 8,
+    "status": null
+  },
+  {
+    "id": 73,
+    "slug": "tunic",
+    "name": "Tunic",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PS4",
+      "Switch"
+    ],
+    "released": "2022-03-16",
+    "rating": 4.3,
+    "metacritic": 85,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553420/header.jpg",
+    "description": "Un pequeño zorro explora un mundo misterioso lleno de secretos y peligros en este homenaje a los clásicos de aventura.",
+    "playtime": 15,
+    "status": null
+  },
+  {
+    "id": 74,
+    "slug": "senuas-saga-hellblade-2",
+    "name": "Senua's Saga: Hellblade II",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Horror"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox Series"
+    ],
+    "released": "2024-05-21",
+    "rating": 4.2,
+    "metacritic": 81,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2461850/header.jpg",
+    "description": "Senua continúa su viaje en Islandia vikinga. Una experiencia cinemática hipnótica con gráficos sin precedentes.",
+    "playtime": 8,
+    "status": null
+  },
+  {
+    "id": 75,
+    "slug": "sifu",
+    "name": "Sifu",
+    "genres": [
+      "Acción",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Switch"
+    ],
+    "released": "2022-02-08",
+    "rating": 4.2,
+    "metacritic": 80,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2138840/header.jpg",
+    "description": "Eres el único superviviente de una masacre. Domina el kung fu y envejece con cada derrota para vengarte.",
+    "playtime": 12,
+    "status": null
+  },
+  {
+    "id": 76,
+    "slug": "cyberpunk-2077",
+    "name": "Cyberpunk 2077",
+    "genres": [
+      "RPG",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series"
+    ],
+    "released": "2020-12-10",
+    "rating": 4.1,
+    "metacritic": 86,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+    "description": "Cyberpunk 2077 es un RPG de mundo abierto ambientado en Night City, una megalópolis obsesionada con el poder.",
+    "playtime": 50,
+    "status": null
+  },
+  {
+    "id": 77,
+    "slug": "death-stranding",
+    "name": "Death Stranding",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "released": "2019-11-08",
+    "rating": 4.1,
+    "metacritic": 82,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1190460/header.jpg",
+    "description": "Sam Porter Bridges debe recorrer un devastado EEUU para reconectar a la civilización aislada.",
+    "playtime": 45,
+    "status": null
+  },
+  {
+    "id": 78,
+    "slug": "palworld",
+    "name": "Palworld",
+    "genres": [
+      "Aventura",
+      "Sandbox",
+      "Acción"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series"
+    ],
+    "released": "2024-01-19",
+    "rating": 4.1,
+    "metacritic": 73,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
+    "description": "Captura y entrena criaturas llamadas Pals para trabajar, luchar y explorar un mundo abierto con tus amigos.",
+    "playtime": 60,
+    "status": null
+  },
+  {
+    "id": 79,
+    "slug": "among-us",
+    "name": "Among Us",
+    "genres": [
+      "Estrategia",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "Móvil",
+      "PS4",
+      "Xbox One"
+    ],
+    "released": "2018-06-15",
+    "rating": 3.8,
+    "metacritic": 85,
+    "background_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg",
+    "description": "Trabaja con tu tripulación para preparar la nave, pero cuidado: hay impostores entre vosotros.",
+    "playtime": 5,
+    "status": null
+  }
+]
