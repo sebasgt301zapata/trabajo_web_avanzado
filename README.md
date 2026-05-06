@@ -47,7 +47,7 @@ npm --version
 
 ```bash
 # Si es un .zip, descomprimirlo y entrar a la carpeta
-cd gameshelf_tw
+cd trabajo_web_avanzado
 ```
 
 **2. Instalar las dependencias**
